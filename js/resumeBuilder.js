@@ -1,6 +1,6 @@
 var bio = {
     "name": "Kieran Reid",
-    "role": "Aspiring Front End Web Dev",
+    "role": "All Round Tech Guy",
     "contacts": {
         "mobile": "+6421543726",
         "email": "kieran@skink.nz",
