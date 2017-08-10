@@ -43,10 +43,17 @@ var education = {
 
 var work = {
     "jobs": [{
-            "employer": "Skink Ltd.",
+            "employer": "Umbrellar Cloud",
+            "title": "Advanced Technical Helpdesk Specialist",
+            "location": "Albany, Auckland, NZ",
+            "dates": "Current",
+            "description": "Proactive resolution of customer requests via voice, email & online chat through troubleshooting, diagnosing & testing. Working daily with LAMP & Windows hosting environments, DNS, domain names, email systems, PHP, Apache, NGINX, MySQL, MSSQL and related technologies.",
+            "url" : "https://www.umbrellar.nz/"
+        },{
+            "employer": "Myself",
             "title": "Freelance Web Developer &amp; Owner",
-            "location": "Waitakere, NZ",
-            "dates": "In Progress",
+            "location": "Waitakere, Auckland, NZ",
+            "dates": "Current",
             "description": "Creating websites from concept to go-live. From one-pagers, a business presence site to a full eCommerce setup. I specialise in WordPress, WooCommerce & Shopify theme development, and custom application development using PHP/MySQL, HTML5/CSS3 and JavaScript.",
             "url" : "https://www.skink.nz/"
         },{
