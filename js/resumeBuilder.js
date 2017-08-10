@@ -54,7 +54,7 @@ var work = {
             "title": "Freelance Web Developer &amp; Owner",
             "location": "Waitakere, Auckland, NZ",
             "dates": "2014 - Current",
-            "description": "The odd side gig creating websites from concept to go-live. One-pagers & business brochure sites to a full eCommerce setup and custom ordering systems. I specialise in WordPress, WooCommerce & Shopify theme development, and custom application development using PHP/MySQL, HTML5/CSS3 and JavaScript.",
+            "description": "The odd side gig creating websites from concept to go-live. One-pagers & business brochure sites to full eCommerce setups and custom ordering systems. I've done custom CMS (WP, October, Shopify) theme development, and custom application development using PHP/MySQL, HTML5/CSS3 and JS.",
             "url" : "https://www.skink.nz/"
         },{
             "employer": "Pont Media Ltd.",
