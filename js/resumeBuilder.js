@@ -9,7 +9,7 @@ var bio = {
         "location": "Waitakere, NZ"
     },
     "welcomeMessage": "Hi I'm Kieran (not the All Black!) - CompSci student, web dev and Code Club Volunteer Tutor!",
-    "skills": ["Web Design", "Web Development", "CSS, HTML, JS & PHP", "WordPress"],
+    "skills": ["Tech Support", "Web Development", "CSS, HTML, JS & PHP", "WordPress"],
     "biopic": "images/kieran.jpg"
 
 };
