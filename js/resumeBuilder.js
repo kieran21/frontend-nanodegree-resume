@@ -3,7 +3,7 @@ var bio = {
     "role": "All Round Tech Guy",
     "contacts": {
         "mobile": "+6421543726",
-        "email": "kieran@skink.nz",
+        "email": "kieran21@gmail.com",
         "github": "kieran21",
         "twitter": "skinknz",
         "location": "Waitakere, NZ"
